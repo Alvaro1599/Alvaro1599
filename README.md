@@ -49,3 +49,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Alvaro1599&" alt="Alvaro1599" /></p>
 
 <br>
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Alvaro1599/Alvaro1599/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
