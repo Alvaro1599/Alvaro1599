@@ -32,20 +32,4 @@
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>
 </p>
 
-<br>
-<h3>Datos Estadísticos</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Alvaro1599&show_icons=true&locale=en&layout=compact"
-    alt="Alvaro1599" /></p>
-
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Alvaro1599&show_icons=true&locale=en"
-    alt="adam-pw" /></p>
-
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Alvaro1599&" alt="Alvaro1599" /></p>
-
-<br>
 
